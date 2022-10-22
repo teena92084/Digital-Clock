@@ -14,7 +14,7 @@
  ####  2 Css
  ####  3 Javascript
   
- ###  In javascript I Used method like
+ ###  In javascript I Used Method Like
  ####   SetInterval()
  #####     Executes the function every time after the specified time from the method
 
@@ -24,6 +24,7 @@
   
 ##### time.getHours(),time.getSeconds(),time.getmi(),these are used for return hour ,min ,sec
 - In this  I  Used if  and  else for AM or PM. 
+- after that i used tarnery operator
 
 
 
