@@ -25,6 +25,7 @@
 ##### time.getHours(),time.getSeconds(),time.getmi(),these are used for return hour ,min ,sec
 - In this  I  Used if  and  else for AM or PM. 
 - after that i used tarnery operator
+[    ]
 
 
 
